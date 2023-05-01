@@ -1,0 +1,21 @@
+.array-container {
+    position: absolute;
+    display: flex
+}
+
+.control-panel {
+    display:flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 5px 10px;
+}
+
+body {
+    background-color: gray;
+}
+
+.array-bar {
+    width: 4px;
+}
