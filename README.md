@@ -18,4 +18,4 @@ Once pressed, the sorting buttons will begin animating the associated sorting pr
 
 This project was my first experience with React App and installing Node.js. The elements were created as React components and designed using HTML5/CSS. The algorithms were implemented in JavaScript. Since my most familiar programming language is Python, this project also presented a great opportunity to familiarize myself with a new language and reinforce my understanding of common algorithms.
 
-This project was inspired by a video from Clément Mihailescu ( @clem ) on youtube. The youtube profile can be found [here](https://www.youtube.com/@clem)
+This project was inspired by a video from Clément Mihailescu ( @clem ) on youtube. The youtube profile can be found [here](https://www.youtube.com/@clem).
